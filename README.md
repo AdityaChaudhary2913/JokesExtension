@@ -1,4 +1,4 @@
-# JokesExtension
+# Jokes Extension
 
 This is a web extension which help you out when you are stressed
  and want to hear something funny or maybe you are tired of working and
